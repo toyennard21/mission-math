@@ -105,11 +105,11 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 
 ---
 
-## 📄 Google Sites Resources
+## 📄 sh1mmer unenroller
 
-- [Wolf Unblock](https://sites.google.com/view/wolfunblock/home)
-- [Exploits n Stuff](https://sites.google.com/view/exploitsnstuff/home)
-- [Universal Unblocking](https://sites.google.com/view/universalunblocking)
+VIDEO IS IN THE FILE
+The original shim website is down so use this:  (https://chrome100.dev/)
+also DONT USE SD CARDS BECAUSE THEY WILL NOT WORK
 
 ---
 
@@ -389,7 +389,7 @@ After completing these steps, restart your computer. Your portable OS will now b
 
 ---
 
-*Made with ❤️ by [@yofriendfromschool1](https://github.com/yofriendfromschool1)*
+*credits to: [@yofriendfromschool1](https://github.com/yofriendfromschool1) for the original repo. edits are done by me*
 
 if they catch you:
 Listen, if the school catches you with that wiped laptop running Linux or Windows again, keep it simple and straight. Don’t lie, don’t argue, don’t try to hide it more. That just makes everything blow up bigger.
