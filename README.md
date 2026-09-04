@@ -5,7 +5,7 @@
 
 > Webproxies, blocker bypasses, and more.
 
-> **📌 NOTE:** If any links are down, use [archive.org](https://archive.org) to find cached versions.
+
 
 ---
 
