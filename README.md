@@ -87,7 +87,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 ---
 ### ↩ end task trick (Chromebook)
 
-> click the three dots on the top right corner ---> click more tool ---> click task manager ---> find your blocker (such as linewize and click end task
+> click the three dots on the top right corner ---> click more tool ---> click task manager ---> find your blocker (such as linewize and click end task)
 ---
 
 ## 🔧 Set Up Your Own Proxy
