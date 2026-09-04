@@ -1,6 +1,6 @@
 # 
 
-[![Discord](https://img.shields.io/badge/Discord-discord.gg%2Funblocked-7289DA?logo=discord&logoColor=white)](https://discord.gg/unblocked)
+[![Discord](https://img.shields.io/badge/Tiktok-tiktok.comlogo=tiktok&logoColor=white)](https://tiktok.com/@thenumberonesilofan)
 [![GitHub](https://img.shields.io/badge/GitHub-@toyennard21-181717?logo=github)](https://github.com/toyennard21)
 
 > Webproxies, blocker bypasses, and more.
