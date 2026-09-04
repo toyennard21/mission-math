@@ -105,7 +105,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 
 ---
 
-## 📄 sh1mmer unenroller
+## 🧭 sh1mmer unenroller
 
 VIDEO IS IN THE FILE
 The original shim website is down so use this:  (https://chrome100.dev/)
