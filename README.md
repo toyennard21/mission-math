@@ -133,8 +133,8 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 | AnuraOS | [anura.pro](https://anura.pro/) |
 | CloudVM | [webvm.replit.app](https://webvm.replit.app/) |
 | Virtual x86 | [copy.sh/v86](https://copy.sh/v86/) |
-| Neverinstall | [neverinstall.com](https://neverinstall.com/) |
-| Triage | [tria.ge](https://tria.ge/) |
+| blobeVM | [https://github.com/] (https://github.com/Blobby-Boi/BlobeVM)) |
+| fastVM | [GitHub.com](https://github.com/CloudCompile/fastvm) |
 
 ---
 
