@@ -1,6 +1,6 @@
 # 
 
-[![Discord](https://img.shields.io/badge/Tiktok-tiktok.comlogo=tiktok&logoColor=white)](https://tiktok.com/@thenumberonesilofan)
+[![TikTok](https://img.shields.io/badge/Tiktok-tiktok.comlogo=tiktok&logoColor=white)](https://tiktok.com/@thenumberonesilofan)
 [![GitHub](https://img.shields.io/badge/GitHub-@toyennard21-181717?logo=github)](https://github.com/toyennard21)
 
 > Webproxies, blocker bypasses, and more.
@@ -105,7 +105,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 
 ---
 
-## 🧭 sh1mmer unenroller
+## 🌟 sh1mmer unenroller
 
 VIDEO IS IN THE FILE
 The original shim website is down so use this:  (https://chrome100.dev/)
