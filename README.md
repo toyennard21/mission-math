@@ -103,7 +103,7 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [FritzCohen/LumiOS](https://github.com/FritzCohen/LumiOS)
 - [red-stone-network/clockwork](https://github.com/red-stone-network/clockwork)
 
-### TikTok Tutorials
+### TikTok Tutorials (use personal computer)
 
 - [TikTok Tutorial 1](https://www.tiktok.com/t/ZP8S5tADy/)
 - [TikTok Tutorial 2](https://www.tiktok.com/t/ZP8SDrvGw/)
