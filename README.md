@@ -84,8 +84,8 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 
 - [TikTok Tutorial 1](https://www.tiktok.com/t/ZP8S5tADy/)
 - [TikTok Tutorial 2](https://www.tiktok.com/t/ZP8SDrvGw/)
-
-### end task trick (Chromebook)
+---
+### ↩ end task trick (Chromebook)
 
 > click the three dots on the top right corner ---> click more tool ---> click task manager ---> find your blocker (such as linewize and click end task
 ---
