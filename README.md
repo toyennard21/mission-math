@@ -1,7 +1,7 @@
 # 
 
 [![Discord](https://img.shields.io/badge/Discord-discord.gg%2Funblocked-7289DA?logo=discord&logoColor=white)](https://discord.gg/unblocked)
-[![GitHub](https://img.shields.io/badge/GitHub-@yofriendfromschool1-181717?logo=github)](https://github.com/yofriendfromschool1)
+[![GitHub](https://img.shields.io/badge/GitHub-@toyennard21-181717?logo=github)](https://github.com/toyennard21)
 
 > Webproxies, blocker bypasses, and more.
 
@@ -108,10 +108,9 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 - [TikTok Tutorial 1](https://www.tiktok.com/t/ZP8S5tADy/)
 - [TikTok Tutorial 2](https://www.tiktok.com/t/ZP8SDrvGw/)
 
-### 💡 Khan Academy Trick (Chromebook)
+### end task trick (Chromebook)
 
-> Download Khan Academy on your Chromebook (if available). Sign in with Apple → press the Apple button → search "Google" in the search bar → go to App Support → press the 3 lines → press Google Search. You now have unblocked Google. **Note:** Multiplayer games don't work.
-
+> click the three dots on the top right corner ---> click more tool ---> click task manager ---> find your blocker (such as linewize and click end task
 ---
 
 ## 🔧 Set Up Your Own Proxy
