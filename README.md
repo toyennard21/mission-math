@@ -59,39 +59,6 @@ Use **Sunshine + Moonlight + Tailscale** to remotely connect to your home PC fro
 
 > **Optional but recommended:** Use a VPN like [Cloudflare WARP / 1.1.1.1](https://1.1.1.1/) for extra privacy.
 
----
-
-## 🌐 Web Proxies
-
-### Free / Paid Proxy Services
-
-| Name | Link | Source |
-|------|------|--------|
-| Stealth | — | [GitHub](https://github.com/tholian-network/stealth) |
-| Surfdoge | [surfdoge.pro](https://surfdoge.pro/) | [GitHub](https://github.com/DogeNetwork/v4) |
-| CroxyProxy | [croxyproxy.com](https://www.croxyproxy.com/) | — |
-| CoProxy | [coproxy.io](https://coproxy.io/free-web-proxy/) | — |
-| WebOProxy | [weboproxy.com](https://weboproxy.com/) | — |
-| NetworkChuck Cloud Browser | [browser.networkchuck.com](https://browser.networkchuck.com/) | — |
-| ProxySite | [proxysite.com](https://www.proxysite.com/) | — |
-| Endis | [proxysite.com](https://www.proxysite.com/) | — |
-| ProxyOrb | [proxyorb.com](https://proxyorb.com/) | — |
-| Proxyium | [ajhmath.org](https://ajhmath.org/) | — |
-| Interstellar | [stofcheck-ballinger.com](https://funerals.stofcheck-ballinger.com) | — |
-| ProxyShare | [proxyshare.com](https://www.proxyshare.com/free-proxy/) | — |
-| PlainProxies | [plainproxies.com](https://plainproxies.com/resources/free-web-proxy) | — |
-| Galaxy Hub | [galaxyhub (Canva)](https://galaxyhub.my.canva.site) | — |
-| Holy Unblocker | [holyubofficial.net](https://holyubofficial.net) / [holyunblocker.org](https://holyunblocker.org/) | — |
-| Incognito | [incog.works](https://incog.works/) | — |
-| Alu | [aluu.xyz](https://aluu.xyz/en/) | — |
-| Definitely Science | [definitelyscience.com](https://definitelyscience.com/apps/) | Limited |
-| Radon Games | [radon.games/proxy](https://radon.games/proxy) | — |
-| Kazwire | [kazwire.com](https://kazwire.com/) | — |
-|Inkhorizon | [InkHorizon](http://sites.google.com/view/inkhorizon/prx) | — |
-| UBX | [UBX](https://d9by6xfdi9c2r.cloudfront.net/web/) | — |
-| Mypersonalweb | https://project-87xpi.vercel.app/ https://d7qbv55si3oxi.cloudfront.net https://history-project-draft.netlify.app | — |
-| Browser.lol | [browser.lol](https://browser.lol) | — |
-
 ### Proxy Projects on GitHub
 
 - [Snipperrazer/Trying-to-unblock-school-websites](https://github.com/Snipperrazer/Trying-to-unblock-school-websites)
